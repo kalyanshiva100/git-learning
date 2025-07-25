@@ -1,0 +1,17 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+.bg {
+  background-color: red;
+  color: white;
+  text-align: center;
+  justify-content: center;
+}
+.bc {
+  border: 2px solid black;
+}
+.center {
+  text-align: center;
+}
